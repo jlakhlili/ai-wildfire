@@ -1,7 +1,7 @@
 # Wildfire prediction using IA
 
 ## Introduction
-Wildfires is an problematic natural risk, with each year a new increased collection of catastrophic events causing humain, economic and ecological damages. Many reasons are behind the growing number of such events and they are mainly related to climate changes and the urbain extensions in the wildland. The last summer was a saison of record devastation especialy in Northern Hemisphere. Prevention policies with a scientific aproach based on prediction and management measures have become extremely important. 
+Wildfires is a problematic natural risk. Each year a new increased collection of catastrophic events are causing alot of humain, economic and ecological damages. Many reasons are behind the growing number of such events and they are mainly related to climate change and the urbain extensions in the wildland. The last summer was a saison of record devastation especialy in Northern Hemisphere. Prevention policies with a scientific aproach witch is based on prediction and management measures have become extremely important. 
 
 ## Wildfire modeling
 
@@ -13,10 +13,8 @@ The limiation of this kind of models is their complexity, coupling multi-phase e
 
 * Empirical based models:
 
-Empirical models, also called statistical models,  are  predicting  more  likely  fire  behavior  from average conditions and accumulating acknowledges obtained from outdoor observations. Just like the fully physical method, the empirical one is also dependent on the number of considered paremeters and the model cannot easily be generalized. But, with the emergence of data driven methods, many limitations can be exceeded. For example, in the case of forest fire occurrence prediction  a comparaion  has been studied btween two popular artificial intelligence based methods, artificial neural networks (ANN) and support vector machines (SVM), utilizing a reduced set of weather parameters [2]. A recent work with am application of a statistically-based regression model was done [3], and it concerns a located lands in Spain which are an intense wildfire hotspot around Mediterranean Basin (cf. image below)
+Empirical models, also called statistical models,  are  predicting  more  likely  fire  behavior  from average conditions and accumulating acknowledges obtained from outdoor observations. Just like the fully physical method, the empirical one is also dependent on the number of considered paremeters and the model cannot easily be generalized. But, with the emergence of data driven methods, many limitations can be exceeded. For example, in the case of forest fire prediction, a comparaion has been studied btween two popular artificial intelligence based methods, artificial neural networks (ANN) and support vector machines (SVM) [2]. A recent work with an application of a statistically-based regression model was done [3], and it concerns a located lands in Spain which are an intense wildfire hotspot around Mediterranean Basin (cf. image below).
  
- 
-
 ![fig](https://user-images.githubusercontent.com/16169832/150703572-49146a6f-a127-42f9-93aa-cb5b2f8f036b.png)
 
 Fig. 1: Fire danger forecasts initialized on July/August 2021, showing very extreme (purple shading) around the Mediterranean countries. Credit: The European Centre for Medium-range Weather Forecasts (ECMWF). It has recently developed an open source fire danger model, called the Global ECMWF Fire Forecast model (GEFF) [4].
