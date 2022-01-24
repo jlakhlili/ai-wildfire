@@ -1,7 +1,7 @@
 # Wildfire prediction using IA
 
 ## Introduction
-Wildfires is a problematic natural risk. Each year a new increased collection of catastrophic events are causing a lot of humain, economic and ecological damages. Many reasons are behind the growing number of such events and they are mainly related to climate change and the urbain extensions in the wildland. The last summer was a saison of record devastation especialy in Northern Hemisphere. Prevention policies with a scientific aproach witch is based on prediction and management measures have become extremely important. 
+Wildfires is a problematic natural risk. Each year a new increased collection of catastrophic events are causing a lot of humain, economic and ecological damages. Many reasons are behind the growing number of such events and they are mainly related to climate change and the urbain extensions in the wildland. The last summer was a saison of record devastation especialy in Northern Hemisphere. Prevention policies with a scientific aproach which is based on prediction and management measures have become extremely important. 
 
 ## Wildfire modeling
 
