@@ -7,7 +7,7 @@ Wildfires is an problematic natural risk, with each year a new increased collect
 
 * Physical based models: 
 
-Several research works in the understanding of the basic physical mechanisms governing the behavior of wildfires. In order to study the effects in wildfires spread, numerical simulation using a fully-physical fire model have the potential to accurately predict the parameters of interest and provide the basic information needed for proper description of  the fire propagation processes like heat transfers and  chemical  kinetics. 
+Several research works are dedicated to the understanding of the basic physical mechanisms governing the behavior of wildfires. In order to study the effects in wildfires spread, numerical simulation using a fully-physical fire model have the potential to accurately predict the parameters of interest and provide the basic information needed for proper description of  the fire propagation processes like heat transfers and  chemical  kinetics. 
 
 The limiation of this kind of models is their complexity, coupling multi-phase equations with a large number of parameters is not trivial. The resulting simulations can be computationally intensive and they need a lot of resources. But, the reduced models [1] can be used for the calibration of parameters for other type of approches based on semi-physical or laboratory models for example.
 
