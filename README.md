@@ -23,9 +23,9 @@ Fig. 1: Fire danger forecasts initialized on July/August 2021, showing very extr
 
 ## Case study
 
-The im of this case study is is developing a simple machine learinig model which can predict whether information fire spread from given set of data [5].
+The aim of this case study is developing of a simple machine learinig model which can predict whether information fire spread from given set of data [5].
 
-
+>> add jupiter notebook here
 
 ## Conclusion
 
