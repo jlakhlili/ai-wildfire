@@ -21,9 +21,13 @@ Fig. 1: Fire danger forecasts initialized on July/August 2021, showing very extr
 
 ## Case study
 
-The aim of this case study is developing of a simple machine learinig model which can predict whether information fire spread from given set of data [5].
+The aim of this case study is developing of a simple machine learinig model which can predict whether information fire spread from given set of [data](data/forestfires.csv) [5].
 
-> add jupyter notebook here..
+![location](https://user-images.githubusercontent.com/16169832/151084997-03421f68-34fa-47cc-8f47-a11845db7e88.png)
+
+Fig. 2: The map of the Montesinho natural park (Portugal), the database origin [5]
+
+Jupyternotebook available [here](test-case.ipynb).
 
 ## Conclusion
 
