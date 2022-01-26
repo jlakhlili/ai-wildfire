@@ -31,6 +31,8 @@ Jupyternotebook available [here](test-case.ipynb).
 
 ## Conclusion
 
+This study presented a wildﬁre risk prediction mechanism, based on meteorological data. The results demonstrates the ability to predictions forest with a limited amount of data, However several avenues remain to be explored to achieve a model with a very high accuracy, like include other data from weather prediction mechanism and test different deep learning methods.
+
 ## References
 
 [1] Nicolas Frangieh et al. "Wildfires front dynamics: 3D structures and intensity at small and large scales". Combustion and Flame, Volume 211, 2020, Pages 54-67, ISSN 0010-2180. https://doi.org/10.1016/j.combustflame.2019.09.017.
